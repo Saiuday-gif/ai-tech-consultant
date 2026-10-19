@@ -1,0 +1,8 @@
+Client: We need to set up a new directory portal for medical professionals. First, we need to upload our custom medical association logo in the header and make sure our branding colors are saved.
+Consultant: Yes, updating the website logo and general settings can be done directly from the admin panel under General Settings.
+Client: Second, we want to integrate Stripe so our doctors can pay their monthly subscriptions directly online in Live mode.
+Consultant: Stripe integration is straightforward. We configure your publishable key and secret key under Payment Gateways in the Finance tab.
+Client: Third, members should be searchable by medical specialty and geographic location with custom filtering options.
+Consultant: We will configure the member search results design to enable category and location filters.
+Client: Can we deliver this initial setup within two weeks?
+Consultant: Yes, this initial scope covers logo branding, Stripe payment setup, and member search filters.

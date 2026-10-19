@@ -1,0 +1,751 @@
+[
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-#chunk_0",
+    "content": "Can I Send A Mass Email Campaign Using Brilliant Directories?\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000558357\nThe built-in email system is designed for emailing active members who have requested to receive emails from the site. A common example would be sending a monthly newsletter to members who have opted in to receive updates.\nThe email system also sends transactional emails, such as new member signup notifications, credit card update notices, lead emails, and other system-generated messages related to member activity.",
+    "title": "Can I Send A Mass Email Campaign Using Brilliant Directories?",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-",
+    "image_url": ""
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-#chunk_1",
+    "content": "The email system also sends transactional emails, such as new member signup notifications, credit card update notices, lead emails, and other system-generated messages related to member activity.\nSending mass unsolicited emails to Claim Listings or an imported contact list may be considered spam. This can violate email compliance laws, damage the sending reputation of your domain, and result in future emails being blocked or blacklisted.",
+    "title": "Can I Send A Mass Email Campaign Using Brilliant Directories?",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-",
+    "image_url": ""
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-#chunk_2",
+    "content": "Sending mass unsolicited emails to Claim Listings or an imported contact list may be considered spam. This can violate email compliance laws, damage the sending reputation of your domain, and result in future emails being blocked or blacklisted.\nIn some cases, sending spam messages can also negatively impact other sites on the same server and may lead to account restrictions or termination with Brilliant Directories.",
+    "title": "Can I Send A Mass Email Campaign Using Brilliant Directories?",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-",
+    "image_url": ""
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-#chunk_3",
+    "content": "In some cases, sending spam messages can also negatively impact other sites on the same server and may lead to account restrictions or termination with Brilliant Directories.",
+    "title": "Can I Send A Mass Email Campaign Using Brilliant Directories?",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-",
+    "image_url": ""
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts#chunk_0",
+    "content": "Emails \u00bb Email Accounts\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000558363\nEmail accounts (mailboxes) at the website's own domain, such as\nsupport@example.com\n, are created and managed in\nSettings > Domain Manager > Mailboxes\n. The\nEmails > Email Accounts\nmenu item opens that tab directly.\nBefore starting\nConnect a custom domain to the website. A free\ndirectoryup.com\naddress has no mailboxes of its own.",
+    "title": "Emails \u00bb Email Accounts",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415572/original/0_RFHNGWzxRNTrt3i385M8zCmScYPSCYpg.png?1791392588"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts#chunk_1",
+    "content": "address has no mailboxes of its own.\nConfirm which provider receives the domain's email. Mailboxes on the website's hosting receive new mail only when the domain's MX records point to them.\nOpen the email accounts\nIn the admin, open\nEmails\n.\nClick\nEmail Accounts\n.\nDomain Manager opens on the\nMailboxes\ntab, which lists the mailboxes, their storage use, and where the domain's email is delivered.\nEmail Accounts in the Emails menu (1) opens Domain Manager on the Mailboxes tab (2).",
+    "title": "Emails \u00bb Email Accounts",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415572/original/0_RFHNGWzxRNTrt3i385M8zCmScYPSCYpg.png?1791392588"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts#chunk_2",
+    "content": "Email Accounts in the Emails menu (1) opens Domain Manager on the Mailboxes tab (2).\nCreate and manage mailboxes\nOn the\nMailboxes\ntab,\nAdd a mailbox\ncreates a new mailbox with its password and storage limit. Each mailbox in the list offers\nOpen webmail\n,\nSet up\nfor the settings to enter in Outlook, Apple Mail, or a phone, and\nMore\nfor changing the password or storage limit or deleting the mailbox. The full steps are in",
+    "title": "Emails \u00bb Email Accounts",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415572/original/0_RFHNGWzxRNTrt3i385M8zCmScYPSCYpg.png?1791392588"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts#chunk_3",
+    "content": "for changing the password or storage limit or deleting the mailbox. The full steps are in\nSettings \u00bb Domain Manager \u00bb Mailboxes and Email Routing\n.\nGeneric addresses such as\ninfo@\nare more often treated as spam by receiving mail systems. Addresses such as\nsupport@\n,\nadmin@\n, or\ncontact@\nare usually a better choice.\nWhen the previous Email Accounts page appears\nThe previous\nManage Email Accounts\npage still opens in two cases:",
+    "title": "Emails \u00bb Email Accounts",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415572/original/0_RFHNGWzxRNTrt3i385M8zCmScYPSCYpg.png?1791392588"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts#chunk_4",
+    "content": "page still opens in two cases:\nThe website uses a free\ndirectoryup.com\naddress. The page explains that a live domain name must be connected before email accounts can be set up, and offers\nConnect Live Domain\n. See\nHow to Connect a Domain to a Brilliant Directories Website\n.\nThe administrator's role does not include access to the Domain Manager's\nMailboxes\ntab.\nOn a free directoryup.com address, Email Accounts shows the previous page with Connect Live Domain (1).",
+    "title": "Emails \u00bb Email Accounts",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415572/original/0_RFHNGWzxRNTrt3i385M8zCmScYPSCYpg.png?1791392588"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts#chunk_5",
+    "content": "On a free directoryup.com address, Email Accounts shows the previous page with Connect Live Domain (1).\nAdditional notes\nEmail replies do not have a separate reply-to address. Responses go to the address that sent the original message.\nTo read a mailbox in the browser, see\nHow To Access Webmail Through the Admin Area\n.",
+    "title": "Emails \u00bb Email Accounts",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415572/original/0_RFHNGWzxRNTrt3i385M8zCmScYPSCYpg.png?1791392588"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders#chunk_0",
+    "content": "Email Forwarders\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000558373\nEmail Forwarders Not Supported\nIMPORTANT:\nThe Email Forwarders functionality has been removed from our implementation of cPanel as of June, 2024.\nDue to the way this functionality works in cPanel, it caused several issues for users. Some of these issue included:\nNot all emails being forwarded properly based on the domain settings of the email sender and the receiver of the forwarded email",
+    "title": "Email Forwarders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders",
+    "image_url": ""
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders#chunk_1",
+    "content": "Not all emails being forwarded properly based on the domain settings of the email sender and the receiver of the forwarded email\nSendgrid blocking emails from being sent to accounts hosted in cPanel, preventing the Admins of sites from getting notification emails\nThe domain reputation and reputation of the server being harmed when SPAM emails are forwarded through this system\nWhile email forwarders can no longer be added or modified, any existing email forwarders will remain in place. \u00a0If an email forwarder needs to be removed from a site, please submit a ticket to our Support Team for assistance.",
+    "title": "Email Forwarders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders",
+    "image_url": ""
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders#chunk_2",
+    "content": "While email forwarders can no longer be added or modified, any existing email forwarders will remain in place. \u00a0If an email forwarder needs to be removed from a site, please submit a ticket to our Support Team for assistance.\nRecommendations to Replace Email Forwarders\nThe recommended alternative for using email forwarders is to use an email app that can send and receive emails from multiple email accounts in one place:",
+    "title": "Email Forwarders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders",
+    "image_url": ""
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders#chunk_3",
+    "content": "The recommended alternative for using email forwarders is to use an email app that can send and receive emails from multiple email accounts in one place:\nGmail\nPaid\nGoogle Workspace\nemail accounts can connect to 3rd party email accounts to send and receive emails. \u00a0For this, the MX record would need to be pointed to Google workspace, for more information:\nHow To Change Email MX Records\nThunderbird\nThis is a free desktop email application from Mozilla, the makers of the FireFox browser. Thunderbird offers an app for Windows, MacOS, and Linux operating systems.",
+    "title": "Email Forwarders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders",
+    "image_url": ""
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders#chunk_4",
+    "content": "This is a free desktop email application from Mozilla, the makers of the FireFox browser. Thunderbird offers an app for Windows, MacOS, and Linux operating systems.\nApple Mail\nApple includes a free email client that can connect to 3rd party email accounts for all of their devices and operating systems.\nMicrosoft\nWindows Mail\nand\nMicrosoft Outlook\n- Microsoft includes the Windows Mail and Outlook for Windows applications for free on devices using Windows 10 or newer. Both of these applications can connect to 3rd party email accounts.",
+    "title": "Email Forwarders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders",
+    "image_url": ""
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders#chunk_5",
+    "content": "- Microsoft includes the Windows Mail and Outlook for Windows applications for free on devices using Windows 10 or newer. Both of these applications can connect to 3rd party email accounts.",
+    "title": "Email Forwarders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders",
+    "image_url": ""
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab#chunk_0",
+    "content": "Settings \u00bb General Settings \u00bb Social Media Tab\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000558389\nThis article reviews links for the\nSocial Media\naccounts for the website, \u00a0members and visitors will be able to access the full spectrum of profiles available for the website and it helps link the social media world to the website\nSocial Media Accounts\nBelow is a full list of the",
+    "title": "Settings \u00bb General Settings \u00bb Social Media Tab",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132171349/original/ScGFFTLRwpppX7RsyMTIz3RaD35rEBxnOA.png?1696295524"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab#chunk_1",
+    "content": "Below is a full list of the\nSocial Media\naccounts linked to the website.\nImportant note:\nThe system will ask for absolute URLs. For example:\nfacebook.com\nwill\nnot\nbe accepted\nhttps://www.facebook.com\nwill be accepted\nVisual Guide of the Social Media Links tab\n1. Facebook\nAdd a link to the website's facebook account using the following format: https://www.facebook.com/CompanyFacebook\n2. Twitter\nAdd a link to the website's Twitter account using the following format:",
+    "title": "Settings \u00bb General Settings \u00bb Social Media Tab",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132171349/original/ScGFFTLRwpppX7RsyMTIz3RaD35rEBxnOA.png?1696295524"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab#chunk_2",
+    "content": "Add a link to the website's Twitter account using the following format:\nhttps://www.twitter.com/CompanyTwitter\n3. LinkedIn\nAdd a link to the website's LinkedIn account using the following format: https://www.linkedin.com/CompanyLinkedIn\n4. Pinterest\nAdd a link to the website's Pinterest account using the following format: https://www.pinterest.com/CompanyPinteres\n5. Instagram\nAdd a link to the website's Instagram account using the following format: https://www.instagram.com/CompanyInstagram",
+    "title": "Settings \u00bb General Settings \u00bb Social Media Tab",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132171349/original/ScGFFTLRwpppX7RsyMTIz3RaD35rEBxnOA.png?1696295524"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab#chunk_3",
+    "content": "Add a link to the website's Instagram account using the following format: https://www.instagram.com/CompanyInstagram\n6. Youtube\nAdd a link to the website's Youtube account using the following format: https://www.youtube.com/CompanyYouTube\n7. RSS Feed\nAdd a link to the website's RSS feed using the following format: https://www.yourwebsite.com/rss\n8. Tik Tok\nAdd a link to the website's TikTok account using the following format: https://www.tiktok.com/@name",
+    "title": "Settings \u00bb General Settings \u00bb Social Media Tab",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132171349/original/ScGFFTLRwpppX7RsyMTIz3RaD35rEBxnOA.png?1696295524"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab#chunk_4",
+    "content": "Add a link to the website's TikTok account using the following format: https://www.tiktok.com/@name\n9. Whatsapp\nAdd a link to the website's WhatsApp account using the following format: https://wa.me/1XXXXXXXXXX\n10. Snapchat\nAdd a link to the website's Snapchat accout using the following format: https://www.snapchat.com/add/username\nWhere Do These Links Appear?\nInside the Footer Menu of the website:",
+    "title": "Settings \u00bb General Settings \u00bb Social Media Tab",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132171349/original/ScGFFTLRwpppX7RsyMTIz3RaD35rEBxnOA.png?1696295524"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file#chunk_0",
+    "content": "How To Import Categories Via CSV File\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000558401\nTo import a category structure via CSV file (useful for quickly importing large category structures), please follow the steps below for creating the file.\nThis can be used to import up to 3 levels of categories: Top Level Categories, Sub Level Categories, and Sub-Sub Level Categories (for a",
+    "title": "How To Import Categories Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074693982/original/QORGDzC_aYpnRbZBCdD-Mnr1BdDKdexnWA.png?1583248842"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file#chunk_1",
+    "content": "This can be used to import up to 3 levels of categories: Top Level Categories, Sub Level Categories, and Sub-Sub Level Categories (for a\ntotal of three tiers\n).\nStep 1: Create The Category Structure in a CSV file\nDownload the Category Structure Import Template (attached at the bottom of the article).\nOpen up the file and expand the width of the columns so all of the text can be seen in each one.\nColumn A",
+    "title": "How To Import Categories Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074693982/original/QORGDzC_aYpnRbZBCdD-Mnr1BdDKdexnWA.png?1583248842"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file#chunk_2",
+    "content": "Column A\nwill have all of the Top-Level Categories\nColumn\nB\nwill have all of the Sub Categories (optional)\nColumn C\nwill have all of the Sub-Sub Categories (optional)\n4. Fill out the spreadsheet with the categories by replacing the placeholders in the template.\nStep 2: Import The Category Structure\nNavigate to\nMembers >> Member Categories\nselect Import Categories:\nThe button will lead to a new page where it is possible to import the file:",
+    "title": "How To Import Categories Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074693982/original/QORGDzC_aYpnRbZBCdD-Mnr1BdDKdexnWA.png?1583248842"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file#chunk_3",
+    "content": "The button will lead to a new page where it is possible to import the file:\nCRITICAL WARNING:\nChecking the option to delete existing categories will permanently remove all current categories from the database. This action will also unassign all current members from their categories, requiring them to be manually recategorized or re-imported. Only check this box if starting a completely brand-new directory or performing a total category reset.",
+    "title": "How To Import Categories Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074693982/original/QORGDzC_aYpnRbZBCdD-Mnr1BdDKdexnWA.png?1583248842"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file#chunk_4",
+    "content": "Checking the option to delete existing categories will permanently remove all current categories from the database. This action will also unassign all current members from their categories, requiring them to be manually recategorized or re-imported. Only check this box if starting a completely brand-new directory or performing a total category reset.\nUpload the file here.\nFind the Category Import template attached to this article.",
+    "title": "How To Import Categories Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074693982/original/QORGDzC_aYpnRbZBCdD-Mnr1BdDKdexnWA.png?1583248842"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file#chunk_5",
+    "content": "Find the Category Import template attached to this article.\nIMPORTANT NOTE: By default, all members can be listed in 1 Top Level / Main Category and multiple Sub Categories. However, there is a workaround\n:\nWorkaround: Members Selecting Multiple Top-Level Categories",
+    "title": "How To Import Categories Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074693982/original/QORGDzC_aYpnRbZBCdD-Mnr1BdDKdexnWA.png?1583248842"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_0",
+    "content": "How To Import Members Via CSV File\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000558475\nOverview\nImporting members can be a bit of a tricky process due to the fact that all of the data entered must be simple, clean text (no formatting, line breaks, or other things that can break a CSV file), and the data must all be in the proper columns in order to import properly.\nTo start, here are some files that will help with understanding how the import process works:",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_1",
+    "content": "To start, here are some files that will help with understanding how the import process works:\nImport template with ALL fields and explanations of each field\nImport template with only the simple / basic required fields\nExample of a completed import file with ALL fields\nExample of a completed simple / basic import file\nThe template and example files that have \"\nALL fields\n\" included show all of the different fields that can be filled out for a member during import.",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_2",
+    "content": "\" included show all of the different fields that can be filled out for a member during import.\nHowever, not all imports will need to make use of all of these fields, so we also included a simple / basic version of each that has the most commonly used fields. Importing custom variables is also possible.\nDownloading the File\nDownload one of the CSV import templates shown above.\nIn\nrow 1\nof this file, one will see all of the headers required to import the data.",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_3",
+    "content": "of this file, one will see all of the headers required to import the data.\nMake sure not to edit the spelling of any of these headers\n, as doing so will cause the import to fail. In\nrows 2 to 4\nof this file, one will see an explanation of what kind of text should be added into each column (in the\nlisting_type\ncolumn, rows 2 and 3 show its only two values,\nCompany\nand\nIndividual\n).\nOnce the required content for each column is understood,",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_4",
+    "content": "Once the required content for each column is understood,\ndelete rows 2 to 4\nfrom the spreadsheet (if they are not removed, the explanations will be imported as members of the site!)\nEnter all of the member data into the correct columns\nDelete any empty columns from the spreadsheet - for example, if no data is entered in the Twitter column, that column can be deleted from the spreadsheet completely. This will reduce the size of the import file and speed up the import process.",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_5",
+    "content": "Delete any empty columns from the spreadsheet - for example, if no data is entered in the Twitter column, that column can be deleted from the spreadsheet completely. This will reduce the size of the import file and speed up the import process.\nAdd Categories to a CSV Import Spreadsheet\nCategories go in 2 columns near the right side of the spreadsheet (columns AM and AN in the template with ALL fields) - \"",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_6",
+    "content": "Categories go in 2 columns near the right side of the spreadsheet (columns AM and AN in the template with ALL fields) - \"\nprofession_name\n\" and \"\nservices\n\":\nTop Categories\nUnder \"\nprofession_name\n\" put the Top Level Category for the listing to be imported into. For example, if we were doing this for the Local Dessert Shops Directory then I could add \u201c\nIce Cream Shop\n\u201d in this column.\nThe Membership Plan Settings also allow to pre-assign the Top level category to all profiles in that membership plan. For more information on how to do this, refer to",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_7",
+    "content": "The Membership Plan Settings also allow to pre-assign the Top level category to all profiles in that membership plan. For more information on how to do this, refer to\nstep 2\nin the following\narticle\n.\nSub Categories + Sub-Sub Categories\nIn the \"\nservices\n\" column, add a comma-separated list of\nSub Level Categories\nand\nSub-Sub Level Categories\none would like the listing added into.\nFor example, for the listing added into the Top Level Category \u201cIce Cream Shop\u201d, one could add the Sub Level Categories \"Ice Cream,Ice Cream Cake,Ice Cream Cupcake\" (since these are all Sub Level Categories of \u201cIce Cream Shop\u201d that apply to this listing). If one would like a listing imported into ALL Sub Level Categories under the Top Level Category it is being imported into (as designated in the profession_name column), then one could simply put \"all\" under the services column.",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_8",
+    "content": "For example, for the listing added into the Top Level Category \u201cIce Cream Shop\u201d, one could add the Sub Level Categories \"Ice Cream,Ice Cream Cake,Ice Cream Cupcake\" (since these are all Sub Level Categories of \u201cIce Cream Shop\u201d that apply to this listing). If one would like a listing imported into ALL Sub Level Categories under the Top Level Category it is being imported into (as designated in the profession_name column), then one could simply put \"all\" under the services column.\nnote that all of the Top Level Categories and Sub Level Categories entered into this spreadsheet must be spelled exactly the same as they are in the category structure in the Directory Planner.",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_9",
+    "content": "note that all of the Top Level Categories and Sub Level Categories entered into this spreadsheet must be spelled exactly the same as they are in the category structure in the Directory Planner.\nIf there are several sub or sub-sub-categories with the same name,\nit is possible to select which specific sub-category to assign the member to.\n1) Specify the sub-category first followed by this sign:\n=>\n2) Specify the sub-sub category, following this example:",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_10",
+    "content": "2) Specify the sub-sub category, following this example:\nsub level=>sub-sub level (Ice Cream Cake=>Vanilla Cake)\nNOTE: Both Sub and Sub-Sub Level Categories should be entered under the \"services\" column, separated by a comma.\nHelpful Tips\nAutomatically generated member URLs use the current name-formatting rules. Straight or curly apostrophes are removed, most other punctuation and spaces become hyphens, and underscores are preserved. For example, a member name of Ruby\u2019s Clay Studio produces rubys-clay-studio in the name portion of the URL. These rules format the generated URL; the CSV file must still meet the import requirements in this article. See",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_11",
+    "content": "Automatically generated member URLs use the current name-formatting rules. Straight or curly apostrophes are removed, most other punctuation and spaces become hyphens, and underscores are preserved. For example, a member name of Ruby\u2019s Clay Studio produces rubys-clay-studio in the name portion of the URL. These rules format the generated URL; the CSV file must still meet the import requirements in this article. See\nHow To Customize The Member Profile URL Structure",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_12",
+    "content": "How To Customize The Member Profile URL Structure\nfor the complete URL structure.\nIf any columns are blank in the import file, it is always best to delete the entire column. This is also mentioned above, but is a very common issue that people run into! For example, if none of the members which are going to import have any data for the \"fees\" column, it is best to delete this column entirely before import.",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_13",
+    "content": "If any columns are blank in the import file, it is always best to delete the entire column. This is also mentioned above, but is a very common issue that people run into! For example, if none of the members which are going to import have any data for the \"fees\" column, it is best to delete this column entirely before import.\nSome US zip codes begin with a zero or multiple zeros, which Excel and other spreadsheet programs sometimes remove automatically. Make sure all of the zip_codes are formatted as text and have all of the required 0\u2019s at the beginning of the zipcode",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_14",
+    "content": "Some US zip codes begin with a zero or multiple zeros, which Excel and other spreadsheet programs sometimes remove automatically. Make sure all of the zip_codes are formatted as text and have all of the required 0\u2019s at the beginning of the zipcode\nIf one is entering data for the logo, profile_photo, website, twitter, facebook, linkedin, or google_plus fields, be sure to use full URLs including the http:// (EG: http://www.google.com/image.jpg)",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_15",
+    "content": "If one is entering data for the logo, profile_photo, website, twitter, facebook, linkedin, or google_plus fields, be sure to use full URLs including the http:// (EG: http://www.google.com/image.jpg)\nMake sure all listings have something entered into either the company or name field (or first_name and last_name fields) to insure that there will be a title for each listing.\nMake sure to enter either\nC\nompany",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_16",
+    "content": "ompany\nor\nI\nndividual\ninto the\nlisting_type\nfield for each listing (Entering \"Company\" will make the company name more prominent in the listing; entering \"Individual\" will make the name of the person more prominent in the listing) *Our variables are case sensitive so make sure to capitalize the first letter for these.\nAdd the Top Level category for each listing into the profession_name column. Note that this must be spelled exactly the same as the category is spelled in the directory, or they will not import correctly. (See the section of this article above titled \"How to Add Categories to a CSV Import Spreadsheet\" for more tips)",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_17",
+    "content": "Add the Top Level category for each listing into the profession_name column. Note that this must be spelled exactly the same as the category is spelled in the directory, or they will not import correctly. (See the section of this article above titled \"How to Add Categories to a CSV Import Spreadsheet\" for more tips)\n(OPTIONAL) Add a comma-separated list of Sub Level Categories in each listing imported into in the services column (See the section of this article above titled \"How to Add Categories to a CSV Import Spreadsheet\" for more tips).",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_18",
+    "content": "(OPTIONAL) Add a comma-separated list of Sub Level Categories in each listing imported into in the services column (See the section of this article above titled \"How to Add Categories to a CSV Import Spreadsheet\" for more tips).\nFor best results, it is recommended to first create the Category Structure in your site before importing your members into these categories. For more information on how to create categories for members.",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_19",
+    "content": "For best results, it is recommended to first create the Category Structure in your site before importing your members into these categories. For more information on how to create categories for members.\nThe fields \"name\" and \" first_name + last_name\" will create a conflict if they are both populated in the file.\nSimply make sure that only \"name\" or \"first_name + last_name\" are populated. Either one will import the name of the listing successfully.",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_20",
+    "content": "Simply make sure that only \"name\" or \"first_name + last_name\" are populated. Either one will import the name of the listing successfully.\nImport Existing Subscription & Billing Information\nWhen importing members whose subscriptions are already established, their existing subscription information can also be included in the CSV file. This is especially useful when migrating members from another platform.",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_21",
+    "content": "When importing members whose subscriptions are already established, their existing subscription information can also be included in the CSV file. This is especially useful when migrating members from another platform.\nMPORTANT:\nThese fields are not required for standard member imports. However, if importing subscription information, both\nsubscription_start_date\nand\nbilling_cycle\nmust be included together.",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_22",
+    "content": "must be included together.\nStripe Customer ID\nField Variable:\nstripe_customer_id\nThis field is intended for members who already have an existing Stripe Customer ID, such as when migrating members from another platform that was previously connected to Stripe. Adding the existing Stripe Customer ID allows it to be associated with the imported member.\nAccepted format:\ncus_\nfollowed by alphanumeric characters only (eg:",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_23",
+    "content": "followed by alphanumeric characters only (eg:\ncus_ABC123xyz789\n)\nThe\nbilling_cycle\nand\nsubscription_start_date\nfields allow the Billing Cycle and Start Billing On information to be included during the member import, removing the need to manually create this subscription information for each imported member.\nSubscription Start Date\nField Variable:\nsubscription_start_date\nThis field defines the subscription start date for the imported member. It is available for paid membership plans only and must be provided together with the",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_24",
+    "content": "This field defines the subscription start date for the imported member. It is available for paid membership plans only and must be provided together with the\nbilling_cycle\nfield.\nAccepted date formats:\nYYYY-MM-DD (example: 2024-06-15)\nYYYYMMDD (example: 20240615)\nThe website's configured date format (e.g. MM/DD/YYYY or DD/MM/YYYY)\nThe subscription start date cannot be more than one billing cycle in the past or more than 10 years in the future.",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_25",
+    "content": "The subscription start date cannot be more than one billing cycle in the past or more than 10 years in the future.\nBilling Cycle\nField Variable:\nbilling_cycle\nThis field defines the billing cycle for the imported member's subscription. It is available for paid membership plans only and must be provided together with the\nsubscription_start_date\nfield.\nThe corresponding billing amount in the selected Membership Plan must be greater than 0. For example, if the billing cycle is Monthly, the plan's monthly amount must be greater than 0.",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_26",
+    "content": "The corresponding billing amount in the selected Membership Plan must be greater than 0. For example, if the billing cycle is Monthly, the plan's monthly amount must be greater than 0.\nAvailable billing cycles depend on the billing options and prices configured for the selected Membership Plan.\nImport the File\nNavigate to the Search Members section of the admin. On the right side of the page, open the",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_27",
+    "content": "Navigate to the Search Members section of the admin. On the right side of the page, open the\nList Actions\nmenu and select\nImport Members via CSV File\n. The import page opens; the numbers in the second screenshot below match the steps that follow.\nThe Import settings will allow the user to select the membership plan the new listings will belong to. This is required to begin the import.\nA second option will allow the admin to determine the status of the listings upon import:",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_28",
+    "content": "A second option will allow the admin to determine the status of the listings upon import:\nSet as ACTIVE Members\nor\nSet as NOT ACTIVE Members\n.\nAn option to create a\nMember Tag and assign a Tag Group\nwill show, the system will automatically fill out the tag name with the date and time of the import, the information can be edited and the tag can be assigned to any of the available Tag Groups:\nThe Advanced Options will allow the import to:",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_29",
+    "content": "The Advanced Options will allow the import to:\n- Pass unique email checks\n- Create new categories from the file if they have not been added to the admin yet.\n- Geocode the users based on the location added to the CSV file. To use this function, add the \"Pretty URLS API Key\":\nSet Up Pretty URLs with Google Maps\n. A status line under the Geocode option shows whether the server key works, with a\nTest\nbutton to check it again and a button to add or fix the key (",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_30",
+    "content": "button to check it again and a button to add or fix the key (\nAdd a server key\nor\nFix the server key\n); a key Google refuses there is not saved.\n- Auto import profile photo and logo images -\nMember Images: Importing Members with Profile Photos, Logos & Cover Photos\n\"\nStep 2. Upload CSV File Here\n\" will allow the user to select a CSV import file from the computer.\nOnce the file is selected, simply select \"\nBegin File Import",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_31",
+    "content": "Begin File Import\n\" for the upload to begin.\nThe\nImport Members Data Map\nwill display on screen, listing each column header from the file with a preview of its first value and the directory property it will be imported into (1). When using the default import templates without any type of variable modification, we recommend to perform the import as is and click\nContinue with Import\n(2).\nIf the import file includes custom variables which may have been added to forms prior to the import, the same module will display them on the left side of the columns with an example of a value next to it. A column that does not match an existing property shows",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_32",
+    "content": "If the import file includes custom variables which may have been added to forms prior to the import, the same module will display them on the left side of the columns with an example of a value next to it. A column that does not match an existing property shows\nChoose or create a property\nin its\nDirectory Property\ndropdown (1). Click that dropdown to choose the property the column should be imported into:",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_33",
+    "content": "dropdown (1). Click that dropdown to choose the property the column should be imported into:\nThe dropdown lists the existing properties (1): every standard member field, plus any custom field that already has a value saved for at least one member. Should the new variable be missing from the list, click\nCreate new property\n(2) at the bottom of the dropdown to create the variable name for a successful import:",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_34",
+    "content": "(2) at the bottom of the dropdown to create the variable name for a successful import:\nType the new property name and click\nAdd\n(1) to add it to the dropdown. Use lowercase letters, numbers, underscores or hyphens: uppercase letters are changed to lowercase and spaces to underscores, and a name with any other character, or one already in the list, is not accepted:\nThen open the dropdown again, type the new property name in the search box at the top, and click it to choose it for the column.",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_35",
+    "content": "Then open the dropdown again, type the new property name in the search box at the top, and click it to choose it for the column.\nTo leave a column out of the import, open its dropdown and click\nDon't import column\n(1):\nClick\nContinue with Import\n. One last verification asks \"Are you sure you want to run this Import Members File?\": click\nYes, Continue\n(1) for the file to be imported.\nImportant Note:\nAn error message titled",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_36",
+    "content": "An error message titled\nImport File Exceeds Member Limi\nt will display in place of the Data Map when the number of members in the file plus the members already on the site is more than the site's member limit:\nOnce the import is completed a message is going to pop up to\nSync the members with Google Maps\n:\n\"It is recommended to sync all newly imported members with Google Maps so they are searchable by location. Sync members now?\"\u00a0Click",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_37",
+    "content": "\"It is recommended to sync all newly imported members with Google Maps so they are searchable by location. Sync members now?\"\u00a0Click\nSync Members\n(1) to open the geocoding page now, or\nCancel\nto do it later.\nTo learn more information regarding member limits, refer to the article down below:\n100,000 Member Limit Boost\nGeocode Members\nAfter importing the members, follow these steps in the link below:\nGeocoding Members After A CSV Import",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_38",
+    "content": "Geocoding Members After A CSV Import\nImport Profile Images (optional)\nTo complete the import of member images and logos, refer to the link below:\nMember Images: Importing Members With Profile Photos, Logos & Cover Photos\nFor the Cover Photo to appear on the profile this Add-on must be active on the website\nProfile Cover Photo\n.\nGet Personal Assistance\nWe understand that this can be a challenging process, even for some users that are more technically inclined. If one would prefer that someone on our team assists with the import of the members, we have Training Sessions covering importing members. Use the link below to purchase this service: Training Sessions",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_39",
+    "content": "We understand that this can be a challenging process, even for some users that are more technically inclined. If one would prefer that someone on our team assists with the import of the members, we have Training Sessions covering importing members. Use the link below to purchase this service: Training Sessions\nImportant Notes\nThe files below should be downloaded to the computer and viewed in a spreadsheet application like Microsoft Excel, Google Sheets or another similar application.",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_40",
+    "content": "The files below should be downloaded to the computer and viewed in a spreadsheet application like Microsoft Excel, Google Sheets or another similar application.\nService Areas\ncan't be imported at this time, this might be something we add in the future.\nThe system checks default URL fields (website, booking link, social, etc) and only imports them if they\u2019re in a valid URL format - otherwise, they\u2019re skipped. Valid formats are: https://website.com or https://www.website.com.",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file#chunk_41",
+    "content": "The system checks default URL fields (website, booking link, social, etc) and only imports them if they\u2019re in a valid URL format - otherwise, they\u2019re skipped. Valid formats are: https://website.com or https://www.website.com.",
+    "title": "How To Import Members Via CSV File",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets#chunk_0",
+    "content": "How to Override and Edit Default CSS stylesheets\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000559709\nThe\nAdditional CSS\nfield applies custom CSS to every page of the website. It is useful for changing the header, the footer, the page background, or any other area that should look the same on all pages. CSS added here overrides the default CSS of the template.\nAdding Custom CSS",
+    "title": "How to Override and Edit Default CSS stylesheets",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186357130/original/1NFdX8I1exwsFDfbF_jFpkWytTJ7X5Da0w.png?1791317381"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets#chunk_1",
+    "content": "Adding Custom CSS\nGo to\nSettings >> Design Settings\nand open the\nCustom CSS / HEAD\ntab (1).\nAdd the custom CSS rules to the\nAdditional CSS\neditor (2).\nCheck the status line under the editor (3). It should read\nCSS looks valid.\n(see\nLive CSS Checker\nbelow).\nClick\nSave Changes\n.\nImportant: there is no need to include <style> tags.\nEnter the CSS rules only. The website already places the contents of this field inside a style block.",
+    "title": "How to Override and Edit Default CSS stylesheets",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186357130/original/1NFdX8I1exwsFDfbF_jFpkWytTJ7X5Da0w.png?1791317381"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets#chunk_2",
+    "content": "Enter the CSS rules only. The website already places the contents of this field inside a style block.\nTo go back to the default styles, delete the CSS from this field and save. The styles reset to the template defaults.\nNOTE:\nBe careful when removing CSS from this field, as the custom CSS will be permanently deleted and cannot be retrieved.\nLive CSS Checker\nThe Additional CSS editor checks the CSS while it is typed. A single missing closing brace (",
+    "title": "How to Override and Edit Default CSS stylesheets",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186357130/original/1NFdX8I1exwsFDfbF_jFpkWytTJ7X5Da0w.png?1791317381"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets#chunk_3",
+    "content": "The Additional CSS editor checks the CSS while it is typed. A single missing closing brace (\n}\n) can break the layout of every page, because the custom CSS is placed in the same style block as the page\u2019s other CSS, so the checker catches these mistakes before they are saved.\nThe checker reports in two places:\nThe status line\nunder the editor. It shows\n\u2713 CSS looks valid.\nin green when nothing is wrong, or a count of the problems found with the line number and description of the first one.",
+    "title": "How to Override and Edit Default CSS stylesheets",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186357130/original/1NFdX8I1exwsFDfbF_jFpkWytTJ7X5Da0w.png?1791317381"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets#chunk_4",
+    "content": "in green when nothing is wrong, or a count of the problems found with the line number and description of the first one.\nA marker in the editor margin\nnext to the line with the problem: red for an error, amber for a warning.\nThe clip below types a rule with a missing closing brace, shows the red error appear, then adds the brace so the status line returns to\nCSS looks valid.\nErrors (Saving Is Blocked)\nErrors are problems that break the CSS that follows them. They are marked in red (1) and the status line turns red (2), for example",
+    "title": "How to Override and Edit Default CSS stylesheets",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186357130/original/1NFdX8I1exwsFDfbF_jFpkWytTJ7X5Da0w.png?1791317381"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets#chunk_5",
+    "content": "Errors are problems that break the CSS that follows them. They are marked in red (1) and the status line turns red (2), for example\n1 error (first on line 1: Unclosed rule \u2014 missing closing '}'.)\n. The checker reports these errors:\nUnclosed rule \u2014 missing closing '}'.\nA rule or\n@media\nblock was opened with\n{\nand never closed.\nUnexpected '}' with no matching '{'.\nThere is an extra closing brace.\nUnclosed comment \u2014 missing closing comment delimiter.",
+    "title": "How to Override and Edit Default CSS stylesheets",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186357130/original/1NFdX8I1exwsFDfbF_jFpkWytTJ7X5Da0w.png?1791317381"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets#chunk_6",
+    "content": "Unclosed comment \u2014 missing closing comment delimiter.\nA comment was started with\n/*\nand never ended with\n*/\n.\nWhile the Additional CSS has an error, clicking\nSave Changes\ndoes not save. A popup titled\nAdditional CSS has syntax errors\n(1) names the line to fix, and the\nCustom CSS / HEAD\ntab opens so the error is in view. Fix the line, confirm the status line no longer shows an error, then save again.\nThe block applies to the whole Design Settings page.",
+    "title": "How to Override and Edit Default CSS stylesheets",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186357130/original/1NFdX8I1exwsFDfbF_jFpkWytTJ7X5Da0w.png?1791317381"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets#chunk_7",
+    "content": "The block applies to the whole Design Settings page.\nThe\nSave Changes\nbutton saves every Design Settings tab together, so an error in Additional CSS also stops changes on the other tabs from saving until it is fixed.\nWarnings (Saving Still Allowed)\nWarnings point at CSS that the browser will skip, but they never stop a save. They are marked in amber (1), and the status line ends with\nsaves still allowed",
+    "title": "How to Override and Edit Default CSS stylesheets",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186357130/original/1NFdX8I1exwsFDfbF_jFpkWytTJ7X5Da0w.png?1791317381"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets#chunk_8",
+    "content": "saves still allowed\n(2). The checker warns about:\nDeclaration outside a rule\n, such as\ncolor: red;\ntyped outside any\n{ }\n. The browser drops it and the rule after it.\nInvalid value\nfor a property, such as\ndisplay: blok;\n, or an\nUnknown property\n. The browser ignores that line.\nUnclosed '(' or '['\n, such as an unfinished\ncalc(\nor\nurl(\n. The browser ignores the CSS after it.\nWarnings are worth fixing because the browser skips that CSS, but vendor prefixes (such as",
+    "title": "How to Override and Edit Default CSS stylesheets",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186357130/original/1NFdX8I1exwsFDfbF_jFpkWytTJ7X5Da0w.png?1791317381"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets#chunk_9",
+    "content": "Warnings are worth fixing because the browser skips that CSS, but vendor prefixes (such as\n-webkit-\n), CSS custom properties (\n--my-color\n) and other valid modern CSS do not trigger them.\nBracket Matching\nPlacing the cursor next to a brace highlights the matching brace, which makes it easier to see which rule a closing brace belongs to. A brace with no partner is marked instead.\nWhat the Checker Covers\nOnly the",
+    "title": "How to Override and Edit Default CSS stylesheets",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186357130/original/1NFdX8I1exwsFDfbF_jFpkWytTJ7X5Da0w.png?1791317381"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets#chunk_10",
+    "content": "Only the\nAdditional CSS\nfield is checked.\nAdditional HEAD Code\nand\nAdditional Footer Code\nare not checked and save as entered.\nThe checker runs in the admin editor. CSS that is already broken when the page loads is flagged as soon as the tab opens.",
+    "title": "How to Override and Edit Default CSS stylesheets",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186357130/original/1NFdX8I1exwsFDfbF_jFpkWytTJ7X5Da0w.png?1791317381"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area#chunk_0",
+    "content": "How To Access Webmail Through the Admin Area\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000559800\nWebmail reads and sends a mailbox's email in the browser, with no mail program to set up. The admin opens it from\nSettings > Domain Manager > Mailboxes\n, and for administrators whose role can open the website's cPanel it signs in to the mailbox without asking for the mailbox password.",
+    "title": "How To Access Webmail Through the Admin Area",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186358597/original/VJD5ebuo2MSVnjmV9iUW09e7i8XsEAqvDA.png?1791318602"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area#chunk_1",
+    "content": ", and for administrators whose role can open the website's cPanel it signs in to the mailbox without asking for the mailbox password.\nBefore starting\nThe website must use a custom domain with at least one mailbox on its hosting. See\nSettings \u00bb Domain Manager \u00bb Mailboxes and Email Routing\nto create one.\nAllow pop-ups for the admin, because webmail opens in a new browser window.\nOpen a mailbox in webmail\nOpen",
+    "title": "How To Access Webmail Through the Admin Area",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186358597/original/VJD5ebuo2MSVnjmV9iUW09e7i8XsEAqvDA.png?1791318602"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area#chunk_2",
+    "content": "Open\nEmails > Email Accounts\n, or\nSettings > Domain Manager\nand select\nMailboxes\n.\nFind the mailbox in the\nMailboxes\nlist.\nClick\nOpen webmail\n.\nThe mailbox's inbox opens in a new window, already signed in.\nOpen webmail (2) on a mailbox row. The Catch-all label (1) marks the mailbox that receives mail sent to addresses that do not exist.\nIf the password is requested\nThe administrator's role cannot open cPanel.\nSigning in without the password is limited to administrators who can already open the website's cPanel, where cPanel's own Check Email does the same. For other administrators,",
+    "title": "How To Access Webmail Through the Admin Area",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186358597/original/VJD5ebuo2MSVnjmV9iUW09e7i8XsEAqvDA.png?1791318602"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area#chunk_3",
+    "content": "Signing in without the password is limited to administrators who can already open the website's cPanel, where cPanel's own Check Email does the same. For other administrators,\nOpen webmail\nopens the webmail sign-in page; enter the full email address and the mailbox password there. A forgotten mailbox password can be replaced with\nMore > Change the password\non the mailbox row.\nThe mail server could not sign in.",
+    "title": "How To Access Webmail Through the Admin Area",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186358597/original/VJD5ebuo2MSVnjmV9iUW09e7i8XsEAqvDA.png?1791318602"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area#chunk_4",
+    "content": "The mail server could not sign in.\nThe new window shows the webmail sign-in page instead, and a message explains that the mailbox password is needed there.\nThe browser blocked the window.\nA message asks to allow pop-ups for the page. Allow them, then click\nOpen webmail\nagain.\nCatch-all mail\nMail sent to addresses at the domain that do not exist can be kept in the account's own mailbox (\nKeep in the catch-all mailbox",
+    "title": "How To Access Webmail Through the Admin Area",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186358597/original/VJD5ebuo2MSVnjmV9iUW09e7i8XsEAqvDA.png?1791318602"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area#chunk_5",
+    "content": "Keep in the catch-all mailbox\n). That mailbox is then listed as\nThe account's own mailbox\nwith the\nCatch-all\nlabel, and\nOpen webmail\nis the way to read its mail.\nAdditional notes\nEach signed-in opening is recorded in the website's notifications as\nWebmail opened for\nthe mailbox.\nFor administrators without cPanel access,\nOpen webmail\nlinks to the website's address followed by\n/webmail\n, such as\nhttps://www.example.com/webmail",
+    "title": "How To Access Webmail Through the Admin Area",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186358597/original/VJD5ebuo2MSVnjmV9iUW09e7i8XsEAqvDA.png?1791318602"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area#chunk_6",
+    "content": "https://www.example.com/webmail\n, which is the webmail sign-in page and asks for the mailbox password.\nFor help using the webmail program itself, see the\ncPanel documentation\n.",
+    "title": "How To Access Webmail Through the Admin Area",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186358597/original/VJD5ebuo2MSVnjmV9iUW09e7i8XsEAqvDA.png?1791318602"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders#chunk_0",
+    "content": "How Do I Cancel Payment Subscriptions - Orders\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000567728\nAn admin can end (cancel) a member's subscription from three places in the admin area. Ending a subscription stops all future payments for it and cancels its unpaid invoices. Each route asks for confirmation first and offers an optional box to record why the subscription is being cancelled.",
+    "title": "How Do I Cancel Payment Subscriptions - Orders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415526/original/6ia92V_iAr9stLWFZGKpJ-Igx1mBxwfjjg.png?1791392557"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders#chunk_1",
+    "content": "An admin can end (cancel) a member's subscription from three places in the admin area. Ending a subscription stops all future payments for it and cancels its unpaid invoices. Each route asks for confirmation first and offers an optional box to record why the subscription is being cancelled.\nTransaction History\nThe member's Payment History, Subscriptions tab\nThe member's Payment History, Transactions tab",
+    "title": "How Do I Cancel Payment Subscriptions - Orders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415526/original/6ia92V_iAr9stLWFZGKpJ-Igx1mBxwfjjg.png?1791392557"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders#chunk_2",
+    "content": "The member's Payment History, Transactions tab\nImportant:\nEnding a subscription from the admin dashboard does not deactivate the member\u2019s account. To completely remove a member so they no longer appear on the website\u2019s front end, the site admin must manually update the member\u2019s status.\nQuick edit to modify member status\n.\nTransaction History\n1. In the admin area, go to\nFinance \u00bb Transaction History\n.\n2. Search for the member by name or ID in the",
+    "title": "How Do I Cancel Payment Subscriptions - Orders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415526/original/6ia92V_iAr9stLWFZGKpJ-Igx1mBxwfjjg.png?1791392557"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders#chunk_3",
+    "content": "2. Search for the member by name or ID in the\nSearch User Name or ID #\nfield (1 in the image below), then open the tab that holds the member's invoice:\nPayments Received\n,\nUpcoming Payments\n,\nPast Due\n,\nRefunded\nor\nStopped\n(2).\n3. On the invoice's row, hover over\nActions\nand click\nEnd Subscription\n. The option only appears when the invoice belongs to an active subscription.\n4. The\nConfirm End Subscription\nwindow opens. Optionally type the reason for the cancellation in the",
+    "title": "How Do I Cancel Payment Subscriptions - Orders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415526/original/6ia92V_iAr9stLWFZGKpJ-Igx1mBxwfjjg.png?1791392557"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders#chunk_4",
+    "content": "window opens. Optionally type the reason for the cancellation in the\nReason for cancelling\nbox (see\nRecording a Reason for Cancelling\nbelow), then click\nYes, continue\n. Click\nNo, cancel\nto close the window without ending the subscription.\nThe subscription ends, its unpaid invoices are cancelled, and no further payments are collected for it.\nMember's Payment History: \"Subscriptions\" Tab\nSubscriptions can also be ended from the member's own billing page.",
+    "title": "How Do I Cancel Payment Subscriptions - Orders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415526/original/6ia92V_iAr9stLWFZGKpJ-Igx1mBxwfjjg.png?1791392557"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders#chunk_5",
+    "content": "Subscriptions can also be ended from the member's own billing page.\n1. Go to\nMy Members \u00bb Search Members\nand find the member. Hover over\nActions\non the member's row and click\nPayment History\n.\n2. Open the\nSubscriptions\ntab (1). On the subscription's row, hover over\nActions\n(2) and click\nEnd Subscription\n(3).\n3. The\nCancel Subscription?\nwindow opens. Optionally type the reason in the\nReason for cancelling\nbox, then click",
+    "title": "How Do I Cancel Payment Subscriptions - Orders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415526/original/6ia92V_iAr9stLWFZGKpJ-Igx1mBxwfjjg.png?1791392557"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders#chunk_6",
+    "content": "box, then click\nYes, continue\n. Click\nNo, cancel\nto close the window without ending the subscription.\nThis is the same window that opens from\nActions \u00bb End Subscription\non the\nFinance \u00bb Search Subscriptions\npage. After the subscription ends, its row shows\nEnded\n, and any reason entered appears as a\nReason:\nline in the\nHistory\ncolumn.\nMember's Payment History: \"Transactions\" Tab\nThe member's\nTransactions\ntab lists the same invoices as",
+    "title": "How Do I Cancel Payment Subscriptions - Orders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415526/original/6ia92V_iAr9stLWFZGKpJ-Igx1mBxwfjjg.png?1791392557"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders#chunk_7",
+    "content": "tab lists the same invoices as\nFinance \u00bb Transaction History\n, filtered to that member. Ending a subscription from here also cancels its unpaid invoices, including an unpaid invoice the system has already created for the next due date (invoices are created 13 days before the due date).\n1. Go to\nMy Members \u00bb Search Members\n, find the member, hover over\nActions\nand click\nPayment History\n(as in the previous section).",
+    "title": "How Do I Cancel Payment Subscriptions - Orders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415526/original/6ia92V_iAr9stLWFZGKpJ-Igx1mBxwfjjg.png?1791392557"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders#chunk_8",
+    "content": "(as in the previous section).\n2. Open the\nTransactions\ntab (1) and the tab that holds the invoice, then hover over\nActions\non the invoice's row (2) and click\nEnd Subscription\n.\n3. The\nConfirm End Subscription\nwindow opens, the same one used on the Transaction History page. Optionally type the reason in the\nReason for cancelling\nbox, then click\nYes, continue\n.\nTo refund a payment instead, open the same\nActions\nmenu on a paid invoice and click",
+    "title": "How Do I Cancel Payment Subscriptions - Orders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415526/original/6ia92V_iAr9stLWFZGKpJ-Igx1mBxwfjjg.png?1791392557"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders#chunk_9",
+    "content": "menu on a paid invoice and click\nRefund Payment\n:\nRecording a Reason for Cancelling\nBoth End Subscription windows include a\nReason for cancelling\nbox, so the admin team can keep a record of why each subscription was ended (for example, \"Member asked to cancel by phone\" or \"Switched to an annual plan\").\nThe reason is optional. Leaving the box blank ends the subscription exactly as before.\nThe box accepts up to 1,000 characters (",
+    "title": "How Do I Cancel Payment Subscriptions - Orders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415526/original/6ia92V_iAr9stLWFZGKpJ-Igx1mBxwfjjg.png?1791392557"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders#chunk_10",
+    "content": "The box accepts up to 1,000 characters (\nLimit: 1000 characters\nis shown under it). Plain text only; emoji are not supported.\nThe reason is saved with the cancellation and appears in the\nHistory\ncolumn of\nFinance \u00bb Search Subscriptions\nand the member's\nSubscriptions\ntab, as a\nReason:\nline next to the\nEnded\ndetails.\nThe reason is also added to the activity notification the website records when an admin ends a subscription.",
+    "title": "How Do I Cancel Payment Subscriptions - Orders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415526/original/6ia92V_iAr9stLWFZGKpJ-Igx1mBxwfjjg.png?1791392557"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders#chunk_11",
+    "content": "The reason is also added to the activity notification the website records when an admin ends a subscription.\nIf the subscription is ended but the reason cannot be saved, the window shows\nCancelled, but the reason was NOT saved\n. The subscription is still ended; only the reason is missing.\nRead this article to learn how to create a new order (subscription):\nHow To Manually Bill A Member / Create A Subscription For A Member",
+    "title": "How Do I Cancel Payment Subscriptions - Orders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415526/original/6ia92V_iAr9stLWFZGKpJ-Igx1mBxwfjjg.png?1791392557"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders#chunk_12",
+    "content": "How To Manually Bill A Member / Create A Subscription For A Member\n.",
+    "title": "How Do I Cancel Payment Subscriptions - Orders",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders",
+    "image_url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415526/original/6ia92V_iAr9stLWFZGKpJ-Igx1mBxwfjjg.png?1791392557"
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports#chunk_0",
+    "content": "Mandatory Fields For Member Imports\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000568062\nIf there are any issues during the import process, it may be caused by one of the following mandatory fields missing.\nName or Company (name, company)\nField Variable: name, company\nInclude either the \"name\" or \"company\" fields. It is also possible to include both.\nName: Combines the first and last name.",
+    "title": "Mandatory Fields For Member Imports",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports",
+    "image_url": ""
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports#chunk_1",
+    "content": "Name: Combines the first and last name.\nCompany: Company name\nListing Type (listing_type)\nField Variable: listing_type\nCompany: Will display the company name in search results\nIndividual: Displays the individual's name in search results (commonly used for medical or professional directories).\nCountry Code (country_code)\nField Variable: country_code\nTwo-letter\ncountry codes\nare assigned to each listing. Although only the country_code is strictly required, omitting the zip_code and city fields prevents accurate geo-coding, resulting in an incomplete user experience.",
+    "title": "Mandatory Fields For Member Imports",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports",
+    "image_url": ""
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports#chunk_2",
+    "content": "are assigned to each listing. Although only the country_code is strictly required, omitting the zip_code and city fields prevents accurate geo-coding, resulting in an incomplete user experience.\nProfession Name (profession_name)\nField Variable: profession_name\nTop-level categories associated with each member. This is the minimum required to have members import and display properly.\nSubscription & Billing Fields",
+    "title": "Mandatory Fields For Member Imports",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports",
+    "image_url": ""
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports#chunk_3",
+    "content": "Subscription & Billing Fields\nThe following fields are optional for standard member imports. However, when importing existing subscription information, both fields must be provided together.\nIMPORTANT:\nSubscription and billing fields are optional and are not required for standard member imports. However, if importing subscription information, both\nsubscription_start_date\nand\nbilling_cycle\nmust be included together.",
+    "title": "Mandatory Fields For Member Imports",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports",
+    "image_url": ""
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports#chunk_4",
+    "content": "must be included together.\nSubscription Start Date\nField Variable:\nsubscription_start_date\nDefines the subscription start date for an imported member on a paid membership plan. This field must be provided together with\nbilling_cycle\n.\nAccepted date formats:\nYYYY-MM-DD (example: 2024-06-15)\nYYYYMMDD (example: 20240615)\nThe website's configured date format (e.g. MM/DD/YYYY or DD/MM/YYYY)\nThe subscription start date cannot be more than one billing cycle in the past or more than 10 years in the future.",
+    "title": "Mandatory Fields For Member Imports",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports",
+    "image_url": ""
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports#chunk_5",
+    "content": "The subscription start date cannot be more than one billing cycle in the past or more than 10 years in the future.\nBilling Cycle\nField Variable:\nbilling_cycle\nDefines the billing cycle for the imported member's subscription. This field must be provided together with\nsubscription_start_date\n. The corresponding billing amount configured in the selected Membership Plan must be greater than 0.\nAvailable billing cycles depend on the billing options and prices configured for the selected Membership Plan. The corresponding billing amount for the selected cycle must be greater than 0. For example, if the billing cycle is Monthly, the plan's monthly amount must be greater than 0.",
+    "title": "Mandatory Fields For Member Imports",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports",
+    "image_url": ""
+  },
+  {
+    "id": "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports#chunk_6",
+    "content": "Available billing cycles depend on the billing options and prices configured for the selected Membership Plan. The corresponding billing amount for the selected cycle must be greater than 0. For example, if the billing cycle is Monthly, the plan's monthly amount must be greater than 0.",
+    "title": "Mandatory Fields For Member Imports",
+    "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports",
+    "image_url": ""
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "task2-inbox-agent",
+  "version": "1.0.0",
+  "description": "AI Tech Consultant - Inbox Agent",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/evaluation/eval_runner.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

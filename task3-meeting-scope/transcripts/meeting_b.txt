@@ -1,0 +1,6 @@
+Client: We are launching an online real estate directory. We need to import 500 existing agent listings from a CSV spreadsheet.
+Consultant: We can utilize the CSV member import tool to batch-upload the agent details and images.
+Client: Also, we want custom email notifications sent automatically whenever a buyer inquires about a property.
+Consultant: We will set up automated notification templates inside the email settings.
+Client: What about connecting PayPal alongside Stripe for membership dues?
+Consultant: We can configure secondary payment gateway credentials in the finance dashboard.

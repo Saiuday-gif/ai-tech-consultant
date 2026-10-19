@@ -1,0 +1,7 @@
+Client: We are following up on Meeting A regarding the medical directory. We still need the logo upload and Stripe payment gateway.
+Consultant: Understood, those remain in the core scope.
+Client: However, we decided to drop the complex custom member search filters for now to save budget.
+Consultant: Okay, removing the custom search filter configuration from this phase.
+Client: Instead, we must build a custom real-time video consultation feature using WebRTC between patients and doctors.
+Consultant: That is a completely custom module and falls outside standard platform settings. It requires custom backend architecture and extensive engineering hours.
+Client: Understood, please provide an updated scope comparison and revised hourly estimates.
